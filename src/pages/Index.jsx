@@ -8,6 +8,7 @@ const Index = () => {
         <Spacer />
       </Flex>
       <Container centerContent maxW="container.md" height="80vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
+        <Image src="/images/online-payment.jpg" alt="Online Payment" boxSize="300px" objectFit="cover" />
         <VStack spacing={4}>
           <Text fontSize="2xl">Your Blank Canvas</Text>
           <Text>Chat with the agent to start making edits.</Text>
