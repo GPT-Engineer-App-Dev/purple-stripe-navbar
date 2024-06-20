@@ -4,6 +4,7 @@ const partners = [
   { name: "Partner 1", logo: "/images/partner1-logo.png" },
   { name: "Partner 2", logo: "/images/partner2-logo.png" },
   { name: "Partner 3", logo: "/images/partner3-logo.png" },
+  { name: "PayPal", logo: "/images/paypal-logo.png" }, // New partner added
 ];
 
 const Index = () => {
